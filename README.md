@@ -1,2 +1,3 @@
-2014.04.14 ~ 2014.04.18
-nodejs
+kotlin implementation of [Programming Bitcoin](https://www.amazon.com/Programming-Bitcoin-Learn-Program-Scratch/dp/1492031496)
+
+[Secp256k1](https://en.bitcoin.it/wiki/Secp256k1)

@@ -1,1 +1,0 @@
-kotlin implementation of [Programming Bitcoin](https://www.amazon.com/Programming-Bitcoin-Learn-Program-Scratch/dp/1492031496)
